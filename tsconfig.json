@@ -20,7 +20,9 @@
     "paths": {
       "@shared/*": ["src/shared/*"],
       "@database/*": ["src/database/*"],
-      "@utils/*": ["src/utils/*"]
+      "@utils/*": ["src/utils/*"],
+      "@user/*": ["src/user/*"],
+      "@auth/*": ["src/auth/*"]
     }
   }
 }
